@@ -1,0 +1,376 @@
+[{
+  "produce": "Apple",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Apricots",
+  "seasons": [
+    "spring",
+    "summer"
+  ]
+},{
+  "produce": "Avocados",
+  "seasons": [
+    "spring",
+    "summer",
+    "winter"
+  ]
+},{
+  "produce": "Asparagus",
+  "seasons": [
+    "spring"
+  ]
+},{
+  "produce": "Bananas",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Beets",
+  "seasons": [
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Bell Peppers",
+  "seasons": [
+    "summer",
+    "fall"
+  ]
+},{
+  "produce": "Broccoli",
+  "seasons": [
+    "spring",
+    "fall"
+  ]
+},{
+  "produce": "Brussels Sprouts",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Cabbage",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Blackberries",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Blueberries",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Carrots",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Celery",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Collard Greens",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Cantaloupe",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Cauliflower",
+  "seasons": [
+    "fall"
+  ]
+},{
+  "produce": "Cherries",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Corn",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Cranberries",
+  "seasons": [
+    "fall"
+  ]
+},{
+  "produce": "Cucumbers",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Garlic",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall"
+  ]
+},{
+  "produce": "Ginger",
+  "seasons": [
+    "fall"
+  ]
+},{
+  "produce": "Grapefruit",
+  "seasons": [
+    "winter"
+  ]
+},{
+  "produce": "Grapes",
+  "seasons": [
+    "fall"
+  ]
+},{
+  "produce": "Green Beans",
+  "seasons": [
+    "summer,fall"
+  ]
+},{
+  "produce": "Eggplant",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Herbs",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Kale",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Kiwifruit",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Honeydew Melon",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Leeks",
+  "seasons": [
+    "winter"
+  ]
+},{
+  "produce": "Lettuce",
+  "seasons": [
+    "spring",
+    "fall"
+  ]
+},{
+  "produce": "Limes",
+  "seasons": [
+    "spring",
+    "summer",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Lima Beans",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Mushrooms",
+  "seasons": [
+    "spring",
+    "fall"
+  ]
+},{
+  "produce": "Mangos",
+  "seasons": [
+    "summer",
+    "fall"
+  ]
+},{
+  "produce": "Onions",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Oranges",
+  "seasons": [
+    "winter"
+  ]
+},{
+  "produce": "Peas",
+  "seasons": [
+    "spring",
+    "fall"
+  ]
+},{
+  "produce": "Pineapples",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Parsnips",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Pears",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Okra",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Peaches",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Potatoes",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Pumpkin",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Radishes",
+  "seasons": [
+    "spring",
+    "fall"
+  ]
+},{
+  "produce": "Plums",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Rhubarb",
+  "seasons": [
+    "spring"
+  ]
+},{
+  "produce": "Raspberries",
+  "seasons": [
+    "summer",
+    "fall"
+  ]
+},{
+  "produce": "Rutabagas",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Strawberries",
+  "seasons": [
+    "spring",
+    "summer"
+  ]
+},{
+  "produce": "Spinach",
+  "seasons": [
+    "spring",
+    "fall"
+  ]
+},{
+  "produce": "Swiss Chard",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Sweet Potatoes & Yams",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Turnips",
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Winter Squash",
+  "seasons": [
+    "fall",
+    "winter"
+  ]
+},{
+  "produce": "Summer Squash",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Tomatillos",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Tomatoes",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Watermelon",
+  "seasons": [
+    "summer"
+  ]
+},{
+  "produce": "Zucchini",
+  "seasons": [
+    "summer"
+  ]
+}]
